@@ -27,14 +27,3 @@
 ### File Saving
 ![Screenshot 2025-03-22 151226](https://github.com/user-attachments/assets/edc8a779-b767-4416-bd57-5987b20a7aae)
 
-References
-
-    Figma Design 1
-
-    Figma Design 2
-
-    Flutter Documentation
-
-    GitHub Repository
-
-    Gemini API Documentation
